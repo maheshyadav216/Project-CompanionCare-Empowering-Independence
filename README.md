@@ -17,7 +17,7 @@ We are developing CompanionCare, a comprehensive portable device designed to ass
 - Buzzer  
 </br>
 
-<img src="/Images/blues.JPG" height="250" >  
+<img src="/Images/superBox.jpeg" height="250" >  
 
 #### 💻 Software  
 - Arduino IDE  
