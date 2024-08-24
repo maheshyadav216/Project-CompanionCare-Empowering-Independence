@@ -1,4 +1,4 @@
-# Project-CompanionCare-Empowering-Independence  
+# Project- CompanionCare : Empowering Independence  
 *Build2gether 2.0 — Inclusive Innovation Challenge*  
   
 <img src="/Images/B2G2-hackThumb.png" height="250" >
