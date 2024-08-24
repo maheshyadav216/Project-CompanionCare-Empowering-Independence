@@ -6,6 +6,7 @@
 // Software               - Arduino IDE, PlatformIO
 // GitHub Repo of Project - https://github.com/maheshyadav216/Project-CompanionCare-Empowering-Independence 
 // Code last Modified on  - 22/08/2024
+// Code/Content license   - (CC BY-NC-SA 4.0) https://creativecommons.org/licenses/by-nc-sa/4.0/
 //============================================================================//
 
 // Project code for Caretaker Alert Device - XIAO ESP32S3
