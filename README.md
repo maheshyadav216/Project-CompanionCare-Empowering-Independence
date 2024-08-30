@@ -13,7 +13,7 @@ We are developing CompanionCare, a comprehensive portable device designed to ass
 - M5Stack M5StickC Plus 2  
 - Seeed Studio XIAO ESP32S3 Sense   
 - DFRobot Gravity: Offline Language Learning Voice Recognition Sensor  
-- DFRobot Fermion: BLE Sensor Beacon Pack (5PCS)  
+- DFRobot Fermion: BLE Sensor Beacon Pack (4PCS)  
 - Buzzer  
 </br>
 
@@ -35,7 +35,7 @@ We are developing CompanionCare, a comprehensive portable device designed to ass
 
 📕 **YouTube Video Link**  
 
-▶️ CompanionCare: Empowering Independence - 🔗 https://www.youtube.com/ 
+▶️ CompanionCare: Empowering Independence - 🔗 https://youtu.be/oLloS2wEwTI  
 
 -------------------------------------------------------------------------------------------------------
 📒 **Important Links**  
