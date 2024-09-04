@@ -16,7 +16,7 @@
 
 # With this device person can locate, track their important items like -
 # medicine bag, Walking stick, Keychain etc. if misplaced in house
-# But before that **Special Tag Devices should be permanantly attached to 
+# In order to mark/track the important things **Special Tag Devices should be permanantly attached to 
 # these daily use important items/things
 
 # This device can be used by person with limmited movement (physically)
