@@ -19,12 +19,13 @@
 # In order to mark/track the important things **Special Tag Devices should be permanantly attached to 
 # these daily use important items/things
 
-# This device can be used by person with limmited movement (physically)
-# Using Touchscreen panel
+# This device can be used by person with limited movement (physical impairment)
+# Using Touchscreen panel and manual side buttons(for sending SOS panic/help signal)
 # Peoples with Partial/full Visual impairments can also use this device 
-# by use of Voice commands - Like, "Hello Robot" "Find my medicine bag"
+# by use of Voice commands - Like, "Hello Robot" "Find my medicine bag", "Where is my walking stick?"
 # CompanionCare system will find that device location and display on screen,
-# as well as Announce its location on speaker. Send Buzzer signal to Tag device
+# as well as it will Announce its location on speaker. The also Send Buzzer signal to Tag device,
+# So the Tag Device which has built in buzzer will start ringing, and person can find it easily.
 
 import time
 from pinpong.board import Board, Pin
