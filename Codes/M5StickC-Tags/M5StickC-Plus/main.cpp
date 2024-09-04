@@ -10,7 +10,7 @@
 //============================================================================//
 
 // Project code for Smart Tag. M5StickC Plus
-// This Tag will be attached to medicine bag
+// This Tag will be attached to Medicine Bag
 
 #include <WiFi.h>
 #include <PubSubClient.h>
@@ -24,7 +24,7 @@ BLEScan* pBLEScan;
 const char* ssid = "xxxxxxxx";
 const char* password = "xxxxxxxxx";
 
-// MQTT settings
+// MQTT settings, you can assign IP as per your network
 const char* mqtt_server = "192.168.0.107";
 const int mqtt_port = 1883;
 const char* topic_subscribe = "home/UNIHIKER/medbag_buzzer";
