@@ -3,7 +3,7 @@
   
 <img src="/Images/B2G2-hackThumb.png" height="250" >
 
-Everyday Helper, Things Locator, Safety and Support for Special Needs  
+Everyday Helper, Things Locator, Safety and Support for Peoples with Special Needs  
   
 We are developing CompanionCare, a comprehensive portable device designed to assist individuals with special needs. This device, worn on a lanyard, integrates multiple assistive technologies into one seamless solution. It will help users locate misplaced items, send SOS alerts to caretakers, and detect falls, alerting caretakers immediately.
 
