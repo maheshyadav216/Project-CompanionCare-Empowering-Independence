@@ -52,6 +52,21 @@ We are developing **CompanionCare**, a comprehensive portable device designed *t
 
 🔗 https://www.hackster.io/blues-wireless  
 
+-------------------------------------------------------------------------------------------------------
+🔴 Purchase Links -
+
+🛒 UNIHIKER - 🔗 https://www.dfrobot.com/product-2691.html
+
+🛒 M5StickC Plus 🔗 https://shop.m5stack.com/products/m5stickc-plus-esp32-pico-mini-iot-development-kit
+
+🛒 Seeed Studio XIAO ESP32S3 Sense 🔗 https://www.seeedstudio.com/XIAO-ESP32S3-Sense-p-5639.html
+
+🛒 DFRobot Gravity: Offline Language Learning Voice Recognition Sensor
+🔗 https://www.dfrobot.com/product-2665.html
+
+🛒 DFRobot Fermion: BLE Sensor Beacon Pack (5PCS)
+🔗 https://www.dfrobot.com/product-2765.html
+
 ------------------------------------------------------------------------------------------  
 
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
